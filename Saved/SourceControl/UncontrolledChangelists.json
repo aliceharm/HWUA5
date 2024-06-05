@@ -6,10 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/Main.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/NewBlueprint.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/ball.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/blockDestruct.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/cilindrDestruct.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/cylinderDestruct.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/BlockDestrcut.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/Destructb.uasset",
+				"d:/Epic Games/UE_5.3/Engine/Content/MaterialTemplates/Gradients/Gradient_Star1.uasset",
+				"d:/Epic Games/UE_5.3/Engine/Content/MaterialTemplates/Gradients/Gradient_Star2.uasset",
+				"d:/Epic Games/UE_5.3/Engine/Content/MaterialTemplates/Gradients/Gradient_Star3.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/Actor1.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/Actor2.uasset",
-				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/Actor3.uasset",
-				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/NewBlueprint.uasset"
+				"C:/Users/Admin/Documents/Unreal Projects/MyProject2/Content/Actor3.uasset"
 			]
 		}
 	]
